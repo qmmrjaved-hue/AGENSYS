@@ -1,4 +1,4 @@
-ECML PKDD 2026 - Workshops Track Proposal
+ECML PKDD 2026
 Workshop Introduction and Objectives
 AGENSYS – Workshop on Knowledge Discovery, Maintenance and Distributed Intelligence in Multi-Agent Systems
 The increasing adoption of Agentic AI systems is reshaping how complex tasks are addressed across a wide range of domains. In many emerging applications—such as collaborative information retrieval, distributed data analysis, simulation-based policy modeling, and automated scientific discovery—multiple agents interact, exchange intermediate outputs, and iteratively refine collective decisions over extended interaction cycles. At the same time, deploying these systems in practice requires distributed learning and coordination across heterogeneous sites, edge devices, and organizational boundaries, accelerating the transition toward intelligent, decentralized infrastructures in industrial and cyber-physical settings.
